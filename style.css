@@ -120,5 +120,57 @@ body{
 .Illustration-img{
     width: 684px;
     top: 157px;
+}
+.width-4{
+    float: left;
+    width: 25%;
 
+}
+.topic-png{
+    width: 66px;
+    height: 85px;
+    margin-left: 236px;
+}
+#topic-1500{
+    color: #413960;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 6px;
+    line-height: normal;
+    margin-left: 205px;
+    color: #413960;
+  
+}
+.learn-1{
+    color: #585859;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 6px;
+}
+.student-png{
+    width: 66px;
+    height: 85px;
+    margin-left: 265px;
+}
+.learn-2{
+    color: #585859;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 16px;
+}
+#student-1800+{
+    width: 270px;
+    height: 270px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.10);
 }
