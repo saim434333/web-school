@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,600&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,600&family=Roboto&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -164,7 +165,6 @@ body{
     margin-left: 50px;
     float: left;
     box-shadow: 0px 20px 40px 0px #0000001A;
-    float: left;
 }
 .topic-img-student{
     width: 80px;
@@ -206,15 +206,156 @@ body{
 .h1-1{
     width: 280px;
     height: 54px;
-    margin-top: 400px;
+    margin-top: 340px;
     font-weight: 700;
     font-family: Poppins;
     font-size: 24px;
     line-height: 54px;
     letter-spacing: 0em;
-    margin-left: 670px;
-
+    margin-left: 730px;
 }
 .online-c{
+    height: 500px;
+}
+.online-course{
+    width: 370px;
+    height: 483px;
+    margin-left: 210px;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+    border-radius: 18px;
+    background-color: #FFFFFF;
+    float: left;
+}
+.morder-psy{
+    width: 320px;
+    height: 220px;
+    border-radius: 11px;
+    margin-left: 25px;
+    margin-top: 5%;
+}
+.h3-1{
+    width: 237px;
+    height: 36px;
+    margin-left: 24px;
+    font-weight: 500;
+}
+.h1-1-1{
+    color: #585859;
+    width: 96px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.buy-course{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 500px;
+    text-decoration: none;
+    margin-left: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+#buy-course{
+    width: Hug (137px);
+    height: Hug (35px);
+    padding: 8px 28px 8px 28px;
+    border-radius: 33px;
+    gap: 10px;
+    margin-top: 5%;
+    background-color: #21B573;
+}
+.icon-calender{
+    width: 24px;
+    height: 24px;
+    padding: 2px 3px 2px 3px;
+    margin-top: 15%;
+    margin-left: 20px;
+    float: left;
+}
+.p-1{
+    float: left;
+    margin-top: 58px;
+    margin-left: 7px;
+    font-weight: 500;
+    color: #585859;
+    font-size: 16px;
+    float: left;
+}
+.icon-people{
+    float: left;
+    width: 24px;
+    height: 24px;
+    margin-top: 15%;
+    margin-left: 50px;
+}
+.p-2{
+    margin-top: 58px;
+    margin-left: 7px;
+    font-weight: 500;
+    color: #585859;
+    font-size: 16px;
+    float: left;
+}
+#online-course{
+    margin-left: 4%;
+}
+.about-height{
     height: 400px;
+}
+.about-1{
+    width: 280px;
+    height: 54px;
+    margin-top: 9%;
+    font-weight: 700;
+    font-family: Poppins;
+    line-height: 54px;
+    letter-spacing: 0em;
+    margin-left: 730px;
+    font-size: 36px;
+    text-align: left;
+}
+.abut-me{
+    width: 120px;
+    height: 120px;
+    margin-top: 7%;
+    margin-left: 453px;
+    float: left;
+}
+.p-3{
+    float: left;
+    width: 580px;
+    height: 90px;
+    margin-left: 60px; 
+    margin-top: 8%;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.last-interface{
+    height: 400px;
+    background-color:#282531;
+}
+.p-4{
+    width: 364px;
+    height: 60px;
+    margin-left: 143px;
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 12%;
+}
+#last-interface{
+    width: 30%;
 }
